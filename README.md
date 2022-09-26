@@ -3,21 +3,11 @@
 A curated list of Feature Store resources.
 
 - [Awesome Feature Store](#awesome-feature-store)
-  - [Vendors](#vendors)
   - [Articles](#articles)
+  - [Podcasts](#podcasts)
   - [Videos](#videos)
-
-## Vendors
-
-* [Feast](https://feast.dev)
-* [Tecton](https://www.tecton.ai)
-* [Hopsworks](https://www.hopsworks.ai)
-* [Google Cloud Vertex AI](https://cloud.google.com/vertex-ai/docs/featurestore)
-* [AWS SageMaker](https://aws.amazon.com/pt/sagemaker/feature-store/)
-* [Databricks](https://docs.databricks.com/applications/machine-learning/feature-store/index.html)
-* [Qwak](https://www.qwak.com/product/feature-store)
-* [Scribble Data](https://www.scribbledata.io/)
-* [Iguazio](https://www.iguazio.com/feature-store/)
+  - [Open-source](#open-source)
+  - [Vendors](#vendors)
 
 ## Articles
 
@@ -32,8 +22,33 @@ A curated list of Feature Store resources.
 * [What is a Feature Store](https://www.tecton.ai/blog/what-is-a-feature-store/) - Oct 20, 2020
 * [Neoway's Feature Store](https://neowaylabs.github.io/data-science/neoways-feature-store/) - Nov 30, 2021
 
+## Podcasts
+
+* [Bringing Feature Stores and MLOps to the Enterprise At Tecton](https://www.dataengineeringpodcast.com/tecton-mlops-feature-store-episode-166/) - Data Engineering Podcast - Jan 5, 2021
+* [Feature Stores for MLOps with Mike del Balso](https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7) - The TWIML AI Podcast - Oct 19, 2020
+
 ## Videos
 
+* [Feature Stores: Cutting through the Hype](https://datatalks.club/podcast/s02e05-feature-stores.html) - DataTalks.club - Feb 2, 2021
 * [Machine Learning Feature Store Panel Discussion](https://www.youtube.com/watch?v=-TGp2qKz8tA) - MLOps Community - Jan 19, 2021
+* [Feature Stores for MLOps with Mike del Balso](https://twimlai.com/podcast/twimlai/feature-stores-mlops-mike-del-balso/) - The TWIML AI Podcast - Oct 19, 2020
 * [Feature Stores: An Essential Part of the ML Stack to Build Great Data](https://www.youtube.com/watch?v=IjO8VUCIZxc) - MLOps Community - Jul 13, 2020
 * [Zipline - Airbnb’s Declarative Feature Engineering Framework](https://www.youtube.com/watch?v=iUnO4MLAGDU) - Spark+AI Summit Europe 2019
+
+## Open-source
+
+* [Feast](https://feast.dev)
+* [Hopsworks](https://github.com/logicalclocks/hopsworks)
+* [Feature Form](https://github.com/featureform/featureform)
+* [Feathr](https://github.com/linkedin/feathr)
+
+## Vendors
+
+* [Tecton](https://www.tecton.ai)
+* [Hopsworks](https://www.hopsworks.ai)
+* [Google Cloud Vertex AI](https://cloud.google.com/vertex-ai/docs/featurestore)
+* [AWS SageMaker](https://aws.amazon.com/pt/sagemaker/feature-store/)
+* [Databricks](https://docs.databricks.com/applications/machine-learning/feature-store/index.html)
+* [Qwak](https://www.qwak.com/product/feature-store)
+* [Scribble Data](https://www.scribbledata.io/)
+* [Iguazio](https://www.iguazio.com/feature-store/)
