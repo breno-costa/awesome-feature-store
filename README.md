@@ -1,11 +1,11 @@
-# Awesome Feature Store
+# Awesome Feature Store [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of Feature Store resources.
 
-- [Awesome Feature Store](#awesome-feature-store)
+- [Awesome Feature Store ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-feature-store-)
   - [Articles](#articles)
+  - [Talks](#talks)
   - [Podcasts](#podcasts)
-  - [Videos](#videos)
   - [Open-source](#open-source)
   - [Vendors](#vendors)
 
@@ -15,25 +15,30 @@ A curated list of Feature Store resources.
 * [What is a Feature Platform for Machine Learning?](https://www.tecton.ai/blog/what-is-a-feature-platform) - Jul 8, 2022
 * [Why Feature Stores Should Extend, Not Replace, Existing Data Infrastructure](https://www.tecton.ai/blog/why-feature-stores-should-extend-data-infrastructure/) - May 11, 2022
 * [Building a Feature Store](https://www.tecton.ai/blog/how-to-build-a-feature-store/) - Jan 20, 2022
+* [Neoway's Feature Store](https://neowaylabs.github.io/data-science/neoways-feature-store/) - Nov 30, 2021
 * [Real-Time Aggregation Features for Machine Learning (Part 1)](https://www.tecton.ai/blog/real-time-aggregation-features-for-machine-learning-part-1/) - Jun 2, 2021
 * [Real-Time Aggregation Features for Machine Learning (Part 2)](https://www.tecton.ai/blog/real-time-aggregation-features-for-machine-learning-part-2/) - Jun 2, 2021
 * [How to Build a Fraud Model with a Feature Store](https://www.tecton.ai/blog/how-to-build-a-fraud-model-with-a-feature-store/) - Apr 5, 2021
 * [How Machine Learning Teams Share and Reuse Features](https://www.tecton.ai/blog/how-machine-learning-teams-share-and-reuse-features/) - Mar 29, 2021
 * [What is a Feature Store](https://www.tecton.ai/blog/what-is-a-feature-store/) - Oct 20, 2020
-* [Neoway's Feature Store](https://neowaylabs.github.io/data-science/neoways-feature-store/) - Nov 30, 2021
+* [Meet Michelangelo: Uber’s Machine Learning Platform](https://www.uber.com/en-DE/blog/michelangelo-machine-learning-platform/) - Sep 5, 2017
+
+## Talks
+
+* [Building Production-Ready Recommender Systems with Feature Stores](https://www.youtube.com/watch?v=fpqa0_U4zb4) - Data + AI Summit - Jul 19, 2022
+* [Enable Production ML with Databricks Feature Store](https://www.youtube.com/watch?v=ia5ZxFDPPzo) - Data + AI Summit - Jul 19, 2022
+* [Building a Real-Time Feature Store at iFood](https://www.youtube.com/watch?v=PsrYdjnCEvI) - Spark + AI Summit - Aug 7, 2020
+* [Feature Stores: An Essential Part of the ML Stack to Build Great Data](https://www.youtube.com/watch?v=IjO8VUCIZxc) - MLOps Community - Jul 13, 2020
+* [Building a Feature Store around Dataframes and Apache Spark](https://www.youtube.com/watch?v=uDyQqDCVjfA) - Spark + AI Summit - Jul 2, 2020
+* [Zipline - Airbnb’s Declarative Feature Engineering Framework](https://www.youtube.com/watch?v=iUnO4MLAGDU) - Spark + AI Summit Europe 2019
 
 ## Podcasts
 
-* [Bringing Feature Stores and MLOps to the Enterprise At Tecton](https://www.dataengineeringpodcast.com/tecton-mlops-feature-store-episode-166/) - Data Engineering Podcast - Jan 5, 2021
-* [Feature Stores for MLOps with Mike del Balso](https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7) - The TWIML AI Podcast - Oct 19, 2020
-
-## Videos
-
+* [AWS - Build models faster, and serve predictions at scale using Amazon SageMaker Feature Store](https://www.youtube.com/watch?v=pgwLhy1SNq8) - Feature Store Summit - Oct 25, 2021
 * [Feature Stores: Cutting through the Hype](https://datatalks.club/podcast/s02e05-feature-stores.html) - DataTalks.club - Feb 2, 2021
 * [Machine Learning Feature Store Panel Discussion](https://www.youtube.com/watch?v=-TGp2qKz8tA) - MLOps Community - Jan 19, 2021
-* [Feature Stores for MLOps with Mike del Balso](https://twimlai.com/podcast/twimlai/feature-stores-mlops-mike-del-balso/) - The TWIML AI Podcast - Oct 19, 2020
-* [Feature Stores: An Essential Part of the ML Stack to Build Great Data](https://www.youtube.com/watch?v=IjO8VUCIZxc) - MLOps Community - Jul 13, 2020
-* [Zipline - Airbnb’s Declarative Feature Engineering Framework](https://www.youtube.com/watch?v=iUnO4MLAGDU) - Spark+AI Summit Europe 2019
+* [Bringing Feature Stores and MLOps to the Enterprise At Tecton](https://www.dataengineeringpodcast.com/tecton-mlops-feature-store-episode-166/) - Data Engineering Podcast - Jan 5, 2021
+* [Feature Stores for MLOps with Mike del Balso](https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7) - The TWIML AI Podcast - Oct 19, 2020
 
 ## Open-source
 
