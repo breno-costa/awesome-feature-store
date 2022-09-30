@@ -2,13 +2,6 @@
 
 A curated list of Feature Store resources.
 
-- [Awesome Feature Store ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-feature-store-)
-  - [Articles](#articles)
-  - [Talks](#talks)
-  - [Podcasts](#podcasts)
-  - [Open-source](#open-source)
-  - [Vendors](#vendors)
-
 ## Articles
 
 * [Managing the Flywhell of Machine Learning Data](https://www.tecton.ai/blog/managing-the-flywheel-of-machine-learning-data/) - Jul 28, 2022
@@ -25,20 +18,22 @@ A curated list of Feature Store resources.
 
 ## Talks
 
-* [Building Production-Ready Recommender Systems with Feature Stores](https://www.youtube.com/watch?v=fpqa0_U4zb4) - Data + AI Summit - Jul 19, 2022
-* [Enable Production ML with Databricks Feature Store](https://www.youtube.com/watch?v=ia5ZxFDPPzo) - Data + AI Summit - Jul 19, 2022
-* [Building a Real-Time Feature Store at iFood](https://www.youtube.com/watch?v=PsrYdjnCEvI) - Spark + AI Summit - Aug 7, 2020
-* [Feature Stores: An Essential Part of the ML Stack to Build Great Data](https://www.youtube.com/watch?v=IjO8VUCIZxc) - MLOps Community - Jul 13, 2020
-* [Building a Feature Store around Dataframes and Apache Spark](https://www.youtube.com/watch?v=uDyQqDCVjfA) - Spark + AI Summit - Jul 2, 2020
-* [Zipline - Airbnb’s Declarative Feature Engineering Framework](https://www.youtube.com/watch?v=iUnO4MLAGDU) - Spark + AI Summit Europe 2019
+* [Building Production-Ready Recommender Systems with Feature Stores](https://www.youtube.com/watch?v=fpqa0_U4zb4) - Data+AI Summit - Jul 19, 2022
+* [Enable Production ML with Databricks Feature Store](https://www.youtube.com/watch?v=ia5ZxFDPPzo) - Data+AI Summit - Jul 19, 2022
+* [Build models faster, and serve predictions at scale using Amazon SageMaker Feature Store](https://www.youtube.com/watch?v=pgwLhy1SNq8) - Feature Store Summit - Oct 25, 2021
+* [Twitter's management of ML features in dynamic environments](https://www.youtube.com/watch?v=BqgJ1XL6Gzs) - Feature Store Summit - Oct 22, 2021
+* [Jukebox : Spotify's Feature Infrastructure](https://www.youtube.com/watch?v=qv2DtDvpWx8) - Feature Store Summit - Oct 22, 2021
+* [Building a Real-Time Feature Store at iFood](https://www.youtube.com/watch?v=PsrYdjnCEvI) - Spark+AI Summit - Aug 7, 2020
+* [Building a Feature Store around Dataframes and Apache Spark](https://www.youtube.com/watch?v=uDyQqDCVjfA) - Spark+AI Summit - Jul 2, 2020
+* [Zipline - Airbnb’s Declarative Feature Engineering Framework](https://www.youtube.com/watch?v=iUnO4MLAGDU) - Spark+AI Summit Europe 2019
 
 ## Podcasts
 
-* [AWS - Build models faster, and serve predictions at scale using Amazon SageMaker Feature Store](https://www.youtube.com/watch?v=pgwLhy1SNq8) - Feature Store Summit - Oct 25, 2021
 * [Feature Stores: Cutting through the Hype](https://datatalks.club/podcast/s02e05-feature-stores.html) - DataTalks.club - Feb 2, 2021
 * [Machine Learning Feature Store Panel Discussion](https://www.youtube.com/watch?v=-TGp2qKz8tA) - MLOps Community - Jan 19, 2021
 * [Bringing Feature Stores and MLOps to the Enterprise At Tecton](https://www.dataengineeringpodcast.com/tecton-mlops-feature-store-episode-166/) - Data Engineering Podcast - Jan 5, 2021
 * [Feature Stores for MLOps with Mike del Balso](https://open.spotify.com/show/2sp5EL7s7EqxttxwwoJ3i7) - The TWIML AI Podcast - Oct 19, 2020
+* [Feature Stores: An Essential Part of the ML Stack to Build Great Data](https://www.youtube.com/watch?v=IjO8VUCIZxc) - MLOps Community - Jul 13, 2020
 
 ## Open-source
 
