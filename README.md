@@ -4,6 +4,7 @@ A curated list of Feature Store resources.
 
 ## Articles
 
+* [Self-Serve Feature Platforms: Architectures and APIs](https://huyenchip.com/2023/01/08/self-serve-feature-platforms.html) - Jan 8, 2023
 * [Managing the Flywhell of Machine Learning Data](https://www.tecton.ai/blog/managing-the-flywheel-of-machine-learning-data/) - Jul 28, 2022
 * [What is a Feature Platform for Machine Learning?](https://www.tecton.ai/blog/what-is-a-feature-platform) - Jul 8, 2022
 * [Why Feature Stores Should Extend, Not Replace, Existing Data Infrastructure](https://www.tecton.ai/blog/why-feature-stores-should-extend-data-infrastructure/) - May 11, 2022
