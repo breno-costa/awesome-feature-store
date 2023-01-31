@@ -38,10 +38,11 @@ A curated list of Feature Store resources.
 
 ## Open-source
 
-* [Feast](https://feast.dev)
+* [Feast](https://github.com/feast-dev/feast)
 * [Hopsworks](https://github.com/logicalclocks/hopsworks)
 * [Feature Form](https://github.com/featureform/featureform)
 * [Feathr](https://github.com/linkedin/feathr)
+* [Butterfree](https://github.com/quintoandar/butterfree)
 
 ## Vendors
 
